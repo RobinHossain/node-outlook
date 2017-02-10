@@ -61,6 +61,7 @@ module.exports = {
    *     }
    *   });
    */
+   
   getMessages: function(parameters, callback) {
     var userSpec = utilities.getUserSegment(parameters);
     var folderSpec = parameters.folderId === undefined ? '' : getFolderSegment() + parameters.folderId;
