@@ -1,0 +1,98 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nodejs-outlook@1.1.7",
+        "scope": null,
+        "escapedName": "nodejs-outlook",
+        "name": "nodejs-outlook",
+        "rawSpec": "1.1.7",
+        "spec": "1.1.7",
+        "type": "version"
+      },
+      "C:\\xampp\\htdocs\\sochara"
+    ],
+    [
+      {
+        "raw": "nodejs-outlook",
+        "scope": null,
+        "escapedName": "nodejs-outlook",
+        "name": "nodejs-outlook",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\RobinHossain\\Desktop\\outlook"
+    ]
+  ],
+  "_from": "nodejs-outlook",
+  "_id": "nodejs-outlook@1.1.8",
+  "_inCache": true,
+  "_location": "/nodejs-outlook",
+  "_nodeVersion": "6.9.5",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/nodejs-outlook-1.1.8.tgz_1486704226920_0.40780983678996563"
+  },
+  "_npmUser": {
+    "name": "robinhossain",
+    "email": "robinsabbir@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nodejs-outlook",
+    "scope": null,
+    "escapedName": "nodejs-outlook",
+    "name": "nodejs-outlook",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/nodejs-outlook/-/nodejs-outlook-1.1.8.tgz",
+  "_shasum": "67ca4cb92591925056999d629739c95e5792b50b",
+  "_shrinkwrap": null,
+  "_spec": "nodejs-outlook",
+  "_where": "C:\\Users\\RobinHossain\\Desktop\\outlook",
+  "author": {
+    "name": "Microsoft"
+  },
+  "bugs": {
+    "url": "https://github.com/RobinHossain/node-outlook/issues"
+  },
+  "dependencies": {},
+  "description": "A package for calling the outlook apis from nodeJS",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "67ca4cb92591925056999d629739c95e5792b50b",
+    "tarball": "https://registry.npmjs.org/nodejs-outlook/-/nodejs-outlook-1.1.8.tgz"
+  },
+  "gitHead": "454b504d9c16c0b2e60874b59464bf8e4630ceb7",
+  "homepage": "https://github.com/RobinHossain/node-outlook#readme",
+  "keywords": [
+    "nodejs-outlook"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "robinhossain",
+      "email": "robinsabbir@gmail.com"
+    }
+  ],
+  "name": "nodejs-outlook",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinHossain/node-outlook.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.8"
+}
